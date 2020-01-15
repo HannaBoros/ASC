@@ -1,0 +1,6 @@
+C:\Users\Hanniel\Desktop\convertor baza\covertor baza\covertor baza\bin\Debug\covertor baza.exe.config
+C:\Users\Hanniel\Desktop\convertor baza\covertor baza\covertor baza\bin\Debug\covertor baza.exe
+C:\Users\Hanniel\Desktop\convertor baza\covertor baza\covertor baza\bin\Debug\covertor baza.pdb
+C:\Users\Hanniel\Desktop\convertor baza\covertor baza\covertor baza\obj\Debug\covertor baza.csprojAssemblyReference.cache
+C:\Users\Hanniel\Desktop\convertor baza\covertor baza\covertor baza\obj\Debug\covertor baza.exe
+C:\Users\Hanniel\Desktop\convertor baza\covertor baza\covertor baza\obj\Debug\covertor baza.pdb
